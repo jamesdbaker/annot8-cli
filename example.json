@@ -1,0 +1,10 @@
+{
+  "processors" : [
+    {
+      "processor" : "io.annot8.components.cyber.processors.Email"
+    },
+    {
+      "processor" : "io.annot8.components.print.processors.PrintSpans"
+    }
+  ]
+}
