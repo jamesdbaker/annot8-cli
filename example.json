@@ -1,6 +1,9 @@
 {
   "processors" : [
     {
+      "processor" : "io.annot8.components.files.processors.TxtFileExtractor"
+    },
+    {
       "processor" : "io.annot8.components.cyber.processors.Email"
     },
     {
